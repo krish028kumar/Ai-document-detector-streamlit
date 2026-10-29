@@ -60,4 +60,4 @@ API_KEY=your_api_key_here
 
 ## 👨‍💻 Author
 
-Satyam Ojha
+Krish Kumar
